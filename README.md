@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=220&section=header&text=Java%20%26%20Spring%20Boot%20Developer&fontSize=38&fontColor=ffffff"/>
+  <img src="https://raw.githubusercontent.com/Nitishroy1/Nitishroy1/main/ap.png" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Nitish Kumar</h1>
