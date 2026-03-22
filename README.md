@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nitishroy1/Nitishroy1/main/ap.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/Nitishroy1/Nitishroy1/main/ap.png" width="900" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Nitish Kumar</h1>
